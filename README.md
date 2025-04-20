@@ -79,7 +79,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Abdul Ghaffar | Let's Earn for Humanity</p>
+    <p>© 2025 Abdul Ghaffar | E Rozgst HUB </p>
   </footer>
 </body>
 </html>
