@@ -1,23 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abdul Ghaffar | SEO Expert & Course Trainer</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
-  <style>
-    body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
-    header { background: #0a192f; color: #fff; padding: 20px; text-align: center; }
-    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
-    h1, h2 { color: #0a192f; }
-    .skills, .portfolio, .course, .contact { margin-top: 40px; }
-    ul { line-height: 2; }
-    .portfolio a { color: #0077cc; text-decoration: none; }
-    .portfolio a:hover { text-decoration: underline; }
-    .social a { margin-right: 15px; color: #0a192f; }
-    footer { background: #0a192f; color: white; text-align: center; padding: 20px; margin-top: 40px; }
-  </style>
-</head>
 <body>
   <header>
     <h1>Abdul Ghaffar</h1>
